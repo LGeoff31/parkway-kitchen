@@ -1,9 +1,17 @@
 * {
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
 }
 
 body,
 html {
-	background-color: #fff;
+  background-color: #fff;
+}
+
+.mapouter {
+  position: relative;
+  height: 300px;
+  width: 70vw;
+  margin: 0 auto;
+  margin-top: 40px;
 }
