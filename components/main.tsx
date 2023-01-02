@@ -18,29 +18,6 @@ export const Main = () => {
           <Information />
           <Image h="420px" src="/images/parkway-kitchen.jpeg" alt="front" />
         </Flex>
-
-        <Heading mt={10} textAlign="center" size="lg">
-          Our Menu
-        </Heading>
-        <Text textAlign="center">Take a look at our complete menu</Text>
-        <Image
-          m="20px auto"
-          w="60vw"
-          src="/images/menu1.jpg"
-          alt="menu1"
-          border="2px solid #000"
-          borderRadius="10px"
-          boxShadow="dark-lg"
-        />
-        <Image
-          m="20px auto"
-          w="60vw"
-          src="/images/menu2.jpg"
-          alt="menu2"
-          border="2px solid #000"
-          borderRadius="10px"
-          boxShadow="dark-lg"
-        />
       </Box>
 
       <div className="mapouter">
